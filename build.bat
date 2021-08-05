@@ -1,1 +1,1 @@
-echo 'Second attempt build at %date% %time%'
+echo "Second attempt at %date% %time%"
